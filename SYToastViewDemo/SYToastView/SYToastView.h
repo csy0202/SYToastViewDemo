@@ -1,9 +1,9 @@
 //
 //  SYToastView.h
-//  SYToastView
+//  SYToastViewDemo
 //
-//  Created by hankangMAC on 2017/7/14.
-//  Copyright © 2017年 陈淑洋. All rights reserved.
+//  Created by 紫竹 on 2017/7/14.
+//  Copyright © 2017年 CSY. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
